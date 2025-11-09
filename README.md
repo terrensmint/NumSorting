@@ -11,6 +11,9 @@
 # Клонировать репозиторий
 git clone git@github.com:terrensmint/NumSorting.git
 
+# Перейти в директорию
+cd NumSorting
+
 # Сделать скрипт исполняемым
 chmod +x script.sh
 ```
